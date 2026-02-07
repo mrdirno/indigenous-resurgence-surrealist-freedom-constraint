@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous_resurgence_surrealist_freedom_constraint",
+  "title": "The River Remembers Backwards",
+  "tagline": "When the world forgets its rules, a woman must remember the songs that stitch reality together.",
+  "target_words": 70000,
+  "actual_words": 77099,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Unraveling of Imposed Reality",
+    "Ancestral Memory as Active Resistance",
+    "Surrealism as Indigenous Ontology",
+    "Constraint as the Catalyst for True Freedom"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Unpicking",
+      "words": 3200
+    },
+    {
+      "ch": 2,
+      "title": "The Wrong-Way Flow",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Lagging Shadow",
+      "words": 3200
+    },
+    {
+      "ch": 4,
+      "title": "The Facility",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "The Fox with Too Many Tails",
+      "words": 3200
+    },
+    {
+      "ch": 6,
+      "title": "The Between Sound",
+      "words": 3200
+    },
+    {
+      "ch": 7,
+      "title": "The Map That Was a Body",
+      "words": 3200
+    },
+    {
+      "ch": 8,
+      "title": "The First Crack",
+      "words": 3200
+    },
+    {
+      "ch": 9,
+      "title": "The Council of Broken Things",
+      "words": 3200
+    },
+    {
+      "ch": 10,
+      "title": "The Grammar of Stone",
+      "words": 3200
+    },
+    {
+      "ch": 11,
+      "title": "The Dreaming Mountain",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "The Legal Labyrinth",
+      "words": 3200
+    },
+    {
+      "ch": 13,
+      "title": "The Pulse in the Deep",
+      "words": 3200
+    },
+    {
+      "ch": 14,
+      "title": "The Second Unraveling",
+      "words": 3200
+    },
+    {
+      "ch": 15,
+      "title": "The Treaty of Flesh and Thread",
+      "words": 3200
+    },
+    {
+      "ch": 16,
+      "title": "The Animal with One Leg in Each World",
+      "words": 3200
+    },
+    {
+      "ch": 17,
+      "title": "The Song Against the Current",
+      "words": 3200
+    },
+    {
+      "ch": 18,
+      "title": "The Cost of Remembering",
+      "words": 3200
+    },
+    {
+      "ch": 19,
+      "title": "The Weaving Back",
+      "words": 3200
+    },
+    {
+      "ch": 20,
+      "title": "The New-Old Language",
+      "words": 3200
+    },
+    {
+      "ch": 21,
+      "title": "The Freedom in the Knot",
+      "words": 3200
+    },
+    {
+      "ch": 22,
+      "title": "The Constraint That Holds the World",
+      "words": 3200
+    },
+    {
+      "ch": 23,
+      "title": "The Resurgent Pattern",
+      "words": 3200
+    },
+    {
+      "ch": 24,
+      "title": "The River Finds Its Mouth",
+      "words": 3200
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers an everyday object (a spoon, a book, a coat) behaving according to its original, pre-colonial purpose or material truth, not its current use.",
+      "Create a dialogue between a surrealist painter and an Indigenous elder describing the same 'broken' phenomenon, one in artistic terms, the other in spiritual/cosmological terms.",
+      "Draft a 'legal document' from the perspective of the land itself, listing grievances and terms for a new treaty with humanity.",
+      "Imagine a 'Council of Broken Things'—a gathering of inanimate objects and natural features that have begun to malfunction. What do they debate? What is their plan?"
+    ],
+    "technical": [
+      "Build an interactive web experience where text flows in multiple directions (like the river), and the user must 'listen to the between sound' to navigate and reveal the story.",
+      "Create a generative art piece that uses a map as a seed. The program 'unpicks' the map based on user interaction, slowly transforming it from political boundaries into ecological or ancestral memory patterns."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Leonora Carrington",
+      "Leslie Marmon Silko",
+      "Franz Kafka",
+      "Leanne Betasamosake Simpson"
+    ]
+  },
+  "cover_prompt": "A woman stands in a flowing river, her hands weaving shimmering threads of light and memory from the water's surface, stitching a fractured sky back together as geometric patterns of imposed reality dissolve into organic, ancestral forms around her, [atmospheric setting with mood-condensed details: within a surreal river valley where clockwork gears rust into vines and city buildings melt into ancient, wise mountains, under a twilight sky where constellations rearrange into the faces of elders], in the atmospheric style of Remedios Varo and Leonora Carrington blended with the symbolic visual language of contemporary Indigenous surrealist artists like Jaune Quick-to-See Smith and Brian Jungen, [book cover framing, centered composition, dramatic low-angle shot looking up at the woman as she works, creating a sense of monumental scale and reverence], [dramatic chiaroscuro lighting with a color palette of deep indigo, river-silt brown, luminous silver thread-light, and eruptions of volcanic gold and moss green], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
