@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The old treaty map, sewn from her grandmother’s hair, began to unpick itself. Each stitch loosening was a word unsaid, a boundary forgotten. Leda watched the threads curl on her palm, not falling but rising, seeking the scalp they were cut from. The map was remembering it was a body, and its first act of recollection was to refuse being held.
+Moss grew over the concrete, swallowing the chain-link fence whole. It was the third time this week. Elara watched from her grandmother’s kitchen window, fingers tracing the cold glass, tasting the green, wet promise of it. The city’s order was being digested, slowly. A quiet revolution of roots and rain.
+
 
 
 It wasn’t the words, which were the same slurry of silt and current mutter they’d always been. It was the flow. The Kímmapiiyp, the Old Woman, had spent ten thousand years carving her bed south to north, a stubborn blue vein against the grain of the land. This morning, she was running north to south.
